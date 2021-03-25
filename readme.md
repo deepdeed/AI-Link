@@ -12,6 +12,6 @@ https://github.com/scikit-learn/scikit-learn
   
 ## 深度学习工具：
 
-https://github.com/tensorflow/tensorflow
+tensorflow框架：https://github.com/tensorflow/tensorflow  tensorflow模型：https://github.com/tensorflow/models
 
-https://github.com/pytorch/pytorch
+pytorch框架：https://github.com/pytorch/pytorch
