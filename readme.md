@@ -15,3 +15,7 @@ https://github.com/scikit-learn/scikit-learn
 tensorflow框架：https://github.com/tensorflow/tensorflow  tensorflow模型：https://github.com/tensorflow/models
 
 pytorch框架：https://github.com/pytorch/pytorch
+
+## 计算机视觉重要进展：
+
+EfficientNet论文：https://arxiv.org/pdf/1905.11946.pdf  中文简介：https://zhuanlan.zhihu.com/p/96773680  项目地址：https://github.com/qubvel/efficientnet
