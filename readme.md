@@ -16,4 +16,9 @@ pytorch 框架：https://github.com/pytorch/pytorch
 
 ## 计算机视觉重要进展：
 
-EfficientNet 论文：https://arxiv.org/pdf/1905.11946.pdf 项目：https://github.com/qubvel/efficientnet 中文简介：https://zhuanlan.zhihu.com/p/96773680 
+EfficientNet 论文：https://arxiv.org/pdf/1905.11946.pdf 代码：https://github.com/qubvel/efficientnet 中文简介：https://zhuanlan.zhihu.com/p/96773680 
+
+EfficientDet 论文： https://arxiv.org/abs/1911.09070EfficientDet 代码:https://github.com/google/automl/tree/master/efficientdet；
+
+EfficientPS 论文：https://arxiv.org/pdf/2004.02307.pdfEfficientPS 代码：https://github.com/DeepSceneSeg
+
